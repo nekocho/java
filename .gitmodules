@@ -1,0 +1,6 @@
+[submodule "Projects/Projects/Acebook2024"]
+	path = Projects/Projects/Acebook2024
+	url = https://github.com/nekocho/Acebook2024.git
+[submodule "Projects/Acebook2024"]
+	path = Projects/Acebook2024
+	url = https://github.com/nekocho/Acebook2024.git
